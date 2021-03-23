@@ -1,0 +1,201 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: cursive;
+
+}
+.lio{
+	width: 100%;
+	position: fixed;
+	background-color: #54f0e5;
+	padding: 15px 0px;
+	height: 30px;
+
+}
+.lio .lio1{
+
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	align-content: auto;
+}
+.bande a{
+	color: #ff8040;
+	font-size: 40px;
+	font-weight: 500;
+}
+.bande span{
+	color: #000000;
+}
+.menu li{
+	display: inline-block;
+}
+.menu{
+	padding-top: 10px;
+}
+.menu li a{
+	color: #ff8040;
+	font-size: 15px;
+	font-weight: 150;
+	margin-right: 60px;
+	transition: color 1s;
+}
+
+.menu li a:hover{
+	color: white;
+}
+
+.J{
+	background-color: none;
+	width: 500px;
+	height: 90px;
+	padding-top: 80px;
+}
+
+ 
+.J p{
+    font-size: 25px;
+	color:#ff8040 ;
+	margin-top: 15px;
+	font-family: myrial pro;
+
+}
+/*************************************************************************************************************************************/
+.K{
+	background-color: #F2F2F2;
+	width: 100%;
+	height: 2500px;
+
+}
+.K1{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K2{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K3{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K4{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K5{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K6{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K7{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K8{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K9{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K10{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K11{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K12{
+	background-color: #FFFFFF;
+	height: 580px;
+	width: 435px;
+}
+.K div{
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 8px;
+}
+/************************************************************************************************************************************/
+
+.K1 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K2 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K3 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K4 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K5 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K6 img{
+	height: 520px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K7 img{
+	height: 500px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K8 img{
+	height: 500px;
+	width: 435px;
+	margin-right: 95%;
+}
+.K9 img{
+	height: 500px;
+	width: 435px;
+	margin-right: 95%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Z{
+	background-color: #54f0e5;
+	width: 100%;
+	height: 100px; 
+
+}
